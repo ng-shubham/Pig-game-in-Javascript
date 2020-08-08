@@ -1,3 +1,3 @@
 <?php
-    include_once("pig-game.html")
+    include_once("pig-game.html");
 ?>
